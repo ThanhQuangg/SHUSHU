@@ -1,2 +1,3 @@
-# SHUSHU
+# SHU
+
 App Read Comic
